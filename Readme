@@ -1,0 +1,4 @@
+Reqlog is a simple http proxy that prints the contents
+of requests and responses.
+
+http://godoc.org/github.com/kr/reqlog
